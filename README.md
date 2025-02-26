@@ -1,4 +1,4 @@
-<div align="center">
+
 <h2>Kinase-substrate prediction using an autoregressive models</h2>
 
 **Farzaneh Esmaili**<sup>1</sup> · **Yongfanf Qin**<sup>1 </sup> · **Duolin Wang** <sup>1</sup> · **Dong Xu**<sup>1*</sup>
