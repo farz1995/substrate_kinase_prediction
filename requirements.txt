@@ -1,0 +1,8 @@
+pyyaml==6.0.2
+torch==2.6.0
+numpy==2.2.3
+transformers==4.49.0
+python-box==7.3.2
+tensorboard
+pandas==2.2.3
+torchmetrics==1.6.1
