@@ -4,6 +4,13 @@
 <sup>1</sup> University of Missouri  
 
 ---
+## 📖 Citation  
+
+If you use this work, please cite:  
+
+> **Esmaili F, Qin Y, Wang D, Xu D.** Kinase-substrate prediction using an autoregressive model. *Computational and Structural Biotechnology Journal*.
+
+---
 
 ## **🔬 Abstract**  
 In this study, we introduce an innovative approach leveraging an **autoregressive model** to predict kinase-substrate pairs. Unlike traditional methods focused on **site-specific phosphorylation prediction**, our approach addresses kinase-specific **protein substrate prediction** at the **protein level**, rather than specific phosphorylation sites. We redefine this problem as a **protein-protein interaction (PPI) prediction** task.  
