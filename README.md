@@ -8,13 +8,14 @@
 
 If you use this work, please cite:  
 
+```bibtex
 @article{esmailikinase,
   title={Kinase-substrate prediction using an autoregressive model},
   author={Esmaili, Farzaneh and Qin, Yongfang and Wang, Duolin and Xu, Dong},
   journal={Computational and Structural Biotechnology Journal},
   publisher={Elsevier}
 }
-
+```
 ---
 
 ## **🔬 Abstract**  
