@@ -8,7 +8,12 @@
 
 If you use this work, please cite:  
 
-> **Esmaili F, Qin Y, Wang D, Xu D.** Kinase-substrate prediction using an autoregressive model. *Computational and Structural Biotechnology Journal*.
+@article{esmailikinase,
+  title={Kinase-substrate prediction using an autoregressive model},
+  author={Esmaili, Farzaneh and Qin, Yongfang and Wang, Duolin and Xu, Dong},
+  journal={Computational and Structural Biotechnology Journal},
+  publisher={Elsevier}
+}
 
 ---
 
