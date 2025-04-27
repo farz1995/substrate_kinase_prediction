@@ -58,7 +58,8 @@ pip install prot2token
 ---
 
 ## **📊 Prediction Tutorial**  
-The kinase-substrate interaction model has been integrated into the general model of kinase-phosphorylation to account for interactions between substrates and kinases. In this setup, phosphorylation site prediction is treated as an interaction task.
+The kinase-substrate interaction model has been integrated into the general model of kinase-phosphorylation to account for interactions between substrates and kinases. In this setup, phosphorylation site prediction is treated as an interaction task:
+If a phosphorylation site exists, it indicates that the interaction between the kinase and substrate has occurred.
 To try the general model, use:
 
 ```python
