@@ -72,11 +72,6 @@ samples = [("MEVRPKESWNHADFVHCEDTESVPGKPSVNADEEVGGPQICRVCGDKATGYHFNVMTCEGCKGFFRR
 results = net.run(samples, merging_character=',')
 ```
 
-### **🔹 Example Output**
-```bash
-["MEETMKLATMEDTVEYCLFLIPDESRDSDKHKEILQKYIERIITRFA<EOS>MSGPVPSRARVYTDVNTHRPREYWDYESHVVEWGNQDDYQLVRKLGRGKYS", "<task_kinase_interaction>", "connected"]
-```
-
 ---
 
 ## **📂 Dataset Overview**  
